@@ -20,13 +20,18 @@
     ]
   },
   "devDependencies": {
+    "@types/react": "^16.8.4",
+    "@types/react-dom": "^16.8.2",
     "accurapp-scripts": "^4.0.11",
     "babel-preset-accurapp": "^4.0.10",
     "eslint-config-accurapp": "^4.2.0",
+    "typescript": "^3.3.3333",
+    "webpack-blocks-ts": "^2.0.1",
     "webpack-preset-accurapp": "^4.1.12"
   },
   "dependencies": {
     "@accurat/tachyons-lite": "^1.0.4",
+    "@types/webpack-env": "^1.13.7",
     "d3": "^5.9.1",
     "lodash": "^4.17.11",
     "modern-normalize": "^0.5.0",
