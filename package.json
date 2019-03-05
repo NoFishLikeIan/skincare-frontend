@@ -31,8 +31,10 @@
   },
   "dependencies": {
     "@accurat/tachyons-lite": "^1.0.4",
+    "@types/lodash": "^4.14.122",
     "@types/webpack-env": "^1.13.7",
     "d3": "^5.9.1",
+    "ky": "^0.9.0",
     "lodash": "^4.17.11",
     "modern-normalize": "^0.5.0",
     "react": "^16.8.3",
